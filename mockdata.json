@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "questionId": 1,
+      "Question": "Which city is home to the Eiffel Tower?",
+      "options": ["Paris", "London", "Rome"]
+    },
+    {
+      "questionId": 2,
+      "Question": "Where can you find the Great Wall?",
+      "options": ["China", "Japan", "India"]
+    },
+    {
+      "questionId": 3,
+      "Question": "Which country is famous for its pyramids and the Sphinx?",
+      "options": ["Egypt", "Mexico", "Greece"]
+    },
+    {
+      "questionId": 4,
+      "Question": "The Colosseum is located in which city?",
+      "options": ["Rome", "Athens", "Paris"]
+    },
+    {
+      "questionId": 5,
+      "Question": "Where is the Statue of Liberty situated?",
+      "options": ["New York", "San Francisco", "Washington D.C."]
+    },
+    {
+      "questionId": 6,
+      "Question": "In which city can you visit the Louvre Museum?",
+      "options": ["Paris", "Berlin", "Madrid"]
+    },
+    {
+      "questionId": 7,
+      "Question": "Which country is home to Machu Picchu?",
+      "options": ["Peru", "Brazil", "Chile"]
+    },
+    {
+      "questionId": 8,
+      "Question": "Which city is known for the Sydney Opera House?",
+      "options": ["Sydney", "Melbourne", "Brisbane"]
+    },
+    {
+      "questionId": 9,
+      "Question": "Where is the Taj Mahal located?",
+      "options": ["India", "Pakistan", "Bangladesh"]
+    },
+    {
+      "questionId": 10,
+      "Question": "Which city is famous for Christ the Redeemer statue?",
+      "options": ["Rio de Janeiro", "Lisbon", "Buenos Aires"]
+    },
+    {
+      "questionId": 11,
+      "Question": "In which city is the Acropolis situated?",
+      "options": ["Athens", "Rome", "Istanbul"]
+    },
+    {
+      "questionId": 12,
+      "Question": "Where can you find the historic city of Petra?",
+      "options": ["Jordan", "Saudi Arabia", "Israel"]
+    },
+    {
+      "questionId": 13,
+      "Question": "Which country is home to the ancient ruins of Angkor Wat?",
+      "options": ["Cambodia", "Thailand", "Vietnam"]
+    },
+    {
+      "questionId": 14,
+      "Question": "Which city is known for its canals and gondolas?",
+      "options": ["Venice", "Amsterdam", "Copenhagen"]
+    },
+    {
+      "questionId": 15,
+      "Question": "Where is Mount Fuji located?",
+      "options": ["Japan", "China", "South Korea"]
+    },
+    {
+      "questionId": 16,
+      "Question": "In which country can you visit the Galápagos Islands?",
+      "options": ["Ecuador", "Peru", "Colombia"]
+    },
+    {
+      "questionId": 17,
+      "Question": "Which city is the capital of the United Kingdom?",
+      "options": ["London", "Edinburgh", "Dublin"]
+    },
+    {
+      "questionId": 18,
+      "Question": "Which country is famous for its castles, including Neuschwanstein?",
+      "options": ["Germany", "France", "Austria"]
+    },
+    {
+      "questionId": 19,
+      "Question": "Where is the Golden Gate Bridge located?",
+      "options": ["San Francisco", "Los Angeles", "San Diego"]
+    },
+    {
+      "questionId": 20,
+      "Question": "Which city is known for the Space Needle?",
+      "options": ["Seattle", "Houston", "Chicago"]
+    }
+  ]
+}

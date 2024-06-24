@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.whole-card{
+  /* background-color: white; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  text-align: left;
+  padding: 8px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  /* border: 1px solid #e0e0e0; */
+  margin: 15px;
+}
+li{
+  list-style-type: none;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+}
